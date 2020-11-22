@@ -1,6 +1,6 @@
 Problem Statement 
 
-Create a flask application with a book recommender system from Scraped book data.
+Create an application with a book recommender system from Scraped book data.
 
 
 
